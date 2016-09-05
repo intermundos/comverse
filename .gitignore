@@ -1,0 +1,11 @@
+#DS_Store
+
+.DS_Store
+
+#Web Storm
+
+.idea
+
+#This project JS files
+
+js/**/*

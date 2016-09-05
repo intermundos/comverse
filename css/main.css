@@ -1043,6 +1043,6 @@ footer {
 
 .social-links i:hover {
     color: #30a5de;
-    text-shadow: 0 0 1px 1px #30a5de;
+    text-shadow: 0 0 2px 1px rgba(48, 165, 222, 0.75);
 }
 
