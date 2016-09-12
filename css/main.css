@@ -581,7 +581,7 @@ input[type='radio'] {
 }
 
 .service {
-    width: 15%;
+    width: initial;
     position: relative;
 }
 
@@ -594,6 +594,9 @@ input[type='radio'] {
 
 .service-link span {
     margin-top: 7%;
+    font-size: 1.4rem;
+    color: white;
+    text-align: center;
 }
 
 .services-img-hover {
@@ -603,11 +606,6 @@ input[type='radio'] {
     transition: 0.1s ease-in-out;
 }
 
-.service-link span {
-    font-size: 1.4rem;
-    color: white;
-    text-align: end;
-}
 
 .solutions-button {
     width: 16%;
